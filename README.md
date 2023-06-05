@@ -16,7 +16,7 @@ environment. Either way you'll learn to fix invalid HTML.
 
 ## Getting Started
 
-**Fork and clone** this lesson into your local environment. Navigate into its
+**Fork and clone** this lesson into your local environment. Navigate into its environment
 directory in the terminal, then run `code .` to open the files in Visual Studio
 Code.
 
